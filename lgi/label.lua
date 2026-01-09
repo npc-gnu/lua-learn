@@ -1,3 +1,4 @@
+#!/usr/bin/env luajit
 local lgi = require 'lgi'
 local gtk = lgi.require('Gtk', '3.0')
 local ewwwwww = gtk.Window {
